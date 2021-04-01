@@ -10,6 +10,10 @@ Contact:
 
 https://codecanyon.net/item/flutter-multivendor-mobile-app-for-woocommerce/28267063
 
+# wordpress plugin
+
+https://inkay.uz/mstore-flutter-mobile-app.zip/
+
 # Flutter Multivendor Mobile app for WooCommerce
 
 iOS demo: https://testflight.apple.com/join/6EimtmAM
