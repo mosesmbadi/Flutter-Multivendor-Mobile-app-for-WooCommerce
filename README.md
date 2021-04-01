@@ -3,8 +3,8 @@ I bought this code from codecanyon.net. But I couldn’t use the code. I contact
 If you used the code, I would have asked you to help me use it as well. Thank you!
 
 Contact:
-- Telegram: @ Xurshidbek_18
-- Instagram: instagram.com/_Xurshidbek_18
+- Telegram: https://t.me/Xurshidbek_18
+- Instagram: https://instagram.com/_Xurshidbek_18
 
 # codecanyon url:
 
