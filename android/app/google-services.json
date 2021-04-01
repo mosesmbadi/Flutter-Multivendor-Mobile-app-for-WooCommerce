@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "754723341007",
+    "firebase_url": "https://mstoreapp-21308.firebaseio.com",
+    "project_id": "mstoreapp-21308",
+    "storage_bucket": "mstoreapp-21308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754723341007:android:a5735968359ae9820f6dba",
+        "android_client_info": {
+          "package_name": "mstoreapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754723341007-o9nr87k58bgpd9ppkrft8osgqpm186sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKDEliDw7l0ZR7U6SuP_RfOZGdXD6rvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754723341007-o9nr87k58bgpd9ppkrft8osgqpm186sr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754723341007-l5etrac39vjcot9nhhn03q7v18d6li1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mstoreapp.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
